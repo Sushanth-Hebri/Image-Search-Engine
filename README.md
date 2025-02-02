@@ -4,10 +4,9 @@ Image search engine using Unsplash API
 
 This is a simple Image Search Engine web application that uses the Unsplash API to search for and display images based on keywords. It allows users to explore and discover high-quality images from Unsplash.
 
-![Project Screenshot](/screenshot.png)
 
 ## Demo
-
+**Replace API KEY and then use**
 You can check out a live demo of the project [here](https://sushanth-hebri.github.io/Image-Search-Engine/).
 
 ## Features
